@@ -1,16 +1,5 @@
-# React + Vite
+Human Body Multimedia Project adalah aplikasi multimedia interaktif yang dirancang untuk membantu siswa Sekolah Dasar mempelajari organ tubuh manusia melalui visualisasi yang menarik, ilustrasi edukatif, serta interaksi berbasis web.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project ini dikembangkan menggunakan React dan Tailwind CSS, sehingga menghasilkan tampilan yang modern, responsif, dan mudah digunakan oleh anak-anak maupun guru. Aplikasi ini bertujuan memberikan pengalaman belajar yang lebih intuitif melalui penyajian materi dalam bentuk gambar, animasi sederhana, serta penjelasan yang mudah dipahami.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Aplikasi ini merupakan implementasi dari penelitian “Perancangan Multimedia Interaktif Pengenalan Organ Tubuh Manusia untuk Siswa Sekolah Dasar”, yang berfokus pada pengembangan media pembelajaran berbasis teknologi untuk mendukung pemahaman siswa terhadap struktur dan fungsi organ tubuh manusia.
