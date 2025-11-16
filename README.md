@@ -1,4 +1,4 @@
-Human Body Multimedia Project adalah aplikasi multimedia interaktif yang dirancang untuk membantu siswa Sekolah Dasar mempelajari organ tubuh manusia melalui visualisasi yang menarik, ilustrasi edukatif, serta interaksi berbasis web.
+AnatoKid adalah aplikasi multimedia interaktif yang dirancang untuk membantu siswa Sekolah Dasar mempelajari organ tubuh manusia melalui visualisasi yang menarik, ilustrasi edukatif, serta interaksi berbasis web.
 
 Project ini dikembangkan menggunakan React dan Tailwind CSS, sehingga menghasilkan tampilan yang modern, responsif, dan mudah digunakan oleh anak-anak maupun guru. Aplikasi ini bertujuan memberikan pengalaman belajar yang lebih intuitif melalui penyajian materi dalam bentuk gambar, animasi sederhana, serta penjelasan yang mudah dipahami.
 
